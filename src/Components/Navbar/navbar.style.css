@@ -1,0 +1,63 @@
+.Nb{
+    margin: 0;
+    padding-top: 20px;
+    z-index: 1000000;
+}
+
+.Navbar.Brand{
+    margin-left: 2%;
+}
+.nava{
+    margin-right: 74px;
+}
+
+.nlink {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.abo{
+    color:#038d81 !important
+}
+
+.wh{
+    color: white !important;
+}
+
+select{
+    border:none;
+    padding: 10px 20px;
+    border-radius:5px;
+  }
+  select:focus{
+    outline:none;
+  }
+
+  /* .dropdown-menu {
+    margin-left: 100px;
+  } */
+
+
+
+  .btn-drop {
+  color: black;
+  background: white;
+  border: none;
+  font-size: medium;
+}
+
+
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
+  color:black;
+  background-color: #ccc;
+  
+  border-color: #abb7ca;
+}
+
+
+
+.btn:hover {
+  color: black;
+  background-color: #ccc;
+  border-color: var(--bs-btn-hover-border-color);
+}
