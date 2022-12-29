@@ -20,13 +20,13 @@ const CategoriesEighthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">IP1</span>
+              <span className="id-text">IP1  </span>
               Spugna presaponata imbustata</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -40,13 +40,13 @@ const CategoriesEighthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">IP2</span>
+              <span className="id-text">IP2  </span>
               Manopola presaponata</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -60,13 +60,13 @@ const CategoriesEighthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">IP3</span>
+              <span className="id-text">IP3  </span>
               Manopola presaponata 2 latt</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -81,14 +81,14 @@ const CategoriesEighthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">IP4</span>
+              <span className="id-text">IP4  </span>
               Manopola lava pazienti in TNT
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -103,14 +103,14 @@ const CategoriesEighthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">IP5</span>
+              <span className="id-text">IP5  </span>
               Salviette monouso assorbente
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>

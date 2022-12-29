@@ -20,13 +20,13 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">6001A
-              </span>Sedia comoda pieghevole 4 in 1 Antiscivolo</span>
+              <span className="id-text">6001A  </span> 
+               Sedia comoda pieghevole 4 in 1 Antiscivolo</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -41,15 +41,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">6002B
-              </span>
+              <span className="id-text">6002B  </span>
               Sedia comoda pieghevole 4 in 1 con 4 ruote</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -60,18 +59,18 @@ const CategoriesFifthtlist = () => {
           onClick={() => navigate('/CategoriesDetail20')}>
           <div className="box">
             <img src={"images/products/image-018.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">6003C
-              </span>Sedia WC pieghevole antiscivolo</span>
+              <span className="id-text">6003C  </span>
+              Sedia WC pieghevole antiscivolo</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -82,19 +81,18 @@ const CategoriesFifthtlist = () => {
           onClick={() => navigate('/CategoriesDetail21')}>
           <div className="box">
             <img src={"images/products/image-019.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">6004D
-              </span>
+              <span className="id-text">6004D  </span>
               Sedia WC portatile Antiscivolo</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -105,18 +103,17 @@ const CategoriesFifthtlist = () => {
           onClick={() => navigate('/CategoriesDetail22')}>
           <div className="box">
             <img src={"images/products/image-020.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">7001A
-              </span>Sedia comoda portatile Antiscivolo</span>
+              <span className="id-text">7001A  </span>
+               Sedia comoda portatile Antiscivolo</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -131,14 +128,13 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">7002B
-              </span>Sedia comoda da toilette 5 in 1</span>
+              <span className="id-text">7002B  </span>
+              Sedia comoda da toilette 5 in 1</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -149,18 +145,17 @@ const CategoriesFifthtlist = () => {
           onClick={() => navigate('/CategoriesDetail24')}>
           <div className="box">
             <img src={"images/products/image-022.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">7003C
-              </span>Sedia a rotelle con vaso rimovibile</span>
+              <span className="id-text">7003C  </span>
+              Sedia a rotelle con vaso rimovibile</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -171,19 +166,18 @@ const CategoriesFifthtlist = () => {
           onClick={() => navigate('/CategoriesDetail25')}>
           <div className="box">
             <img src={"images/products/image-023.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">8002A
-              </span>Sedia doccia con ruote
+              <span className="id-text">8002A  </span>
+              Sedia doccia con ruote
             </span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -194,20 +188,19 @@ const CategoriesFifthtlist = () => {
           onClick={() => navigate('/CategoriesDetail26')}>
           <div className="box">
             <img src={"images/products/image-024.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">101A
-              </span>
+              <span className="id-text">101A  </span>
               Sgabello per vasca Antiscivolo
             </span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -218,21 +211,19 @@ const CategoriesFifthtlist = () => {
           onClick={() => navigate('/CategoriesDetail27')}>
           <div className="box">
             <img alt="" src={"images/products/image-025.png"} className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">
-                103C
-              </span>Sgabello per vasca antiscivolo
-
+              <span className="id-text">103C  </span>
+              Sgabello per vasca antiscivolo
             </span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -247,16 +238,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">201A
-              </span>Sedia per doccia Antiscivolo
-
+              <span className="id-text">201A  </span>
+              Sedia per doccia Antiscivolo
             </span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -271,14 +260,13 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">203C
-              </span>
+              <span className="id-text">203C  </span>
               Sedia per doccia Antiscivolo</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -293,14 +281,13 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">301A
-              </span>
+              <span className="id-text">301A  </span>
               Sedia per doccia con Schienale</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -315,14 +302,13 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">401A
-              </span>
+              <span className="id-text">401A  </span>
               Sedia per doccia con schienale</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -337,15 +323,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">403E
-              </span>
+              <span className="id-text">403E  </span>
               Sedile per doccia con braccioli
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -360,15 +345,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">404D
-              </span>
+              <span className="id-text">404D  </span>
               Sedia per doccia a forma di U
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -383,16 +367,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">703C
-              </span>
+              <span className="id-text">703C  </span>
               Braccioli di appoggio per WC
-
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -407,16 +389,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">704D
-              </span>
+              <span className="id-text">704D  </span>
               Braccioli di appoggio per WC
-
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -431,15 +411,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">705E
-              </span>
+              <span className="id-text">705E  </span>
               Maniglie di appoggio per WC
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -454,16 +433,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">710A / 710B
-              </span>
+              <span className="id-text">710A / 710B </span>
               Rialzo WC con sistema
-
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -478,14 +455,13 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">711A/711B
-              </span>Rialzo WC con sistema
+              <span className="id-text">711A/711B  </span>Rialzo WC con sistema
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -500,15 +476,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">712A</span>
+              <span className="id-text">712A  </span>
               Rialzo WC con braccioli
-
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -523,15 +498,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">713A</span>
+              <span className="id-text">713A  </span>
               Rialzo WC con braccioli senza
-
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -546,14 +520,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">607A</span>
+              <span className="id-text">607A  </span>
               Impugnatura di sicurezza per
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -568,15 +542,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">700A / 700B
-              </span>
+              <span className="id-text">700A / 700B  </span>
               Maniglione per bagno
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -591,15 +564,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">608</span>
+              <span className="id-text">608  </span>
               Urinale per Uomo
-
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -614,15 +586,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">609
-              </span>
+              <span className="id-text">609  </span>
               Urinale per Donna
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -637,15 +608,14 @@ const CategoriesFifthtlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">6010
-              </span>
+              <span className="id-text">6010  </span>
               Urinale Unisex
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>

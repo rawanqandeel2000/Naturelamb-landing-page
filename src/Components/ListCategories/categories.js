@@ -11,7 +11,6 @@ const Categories = () => {
     <div className="categories">
       <Navb/>
       <div className="row">
-
         <div
           className="col-sm-3 propuct"
           onClick={() => navigate('/CategoriesDetailsOne')}>
@@ -21,14 +20,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">INC01</span>
+              <span className="id-text">INC01  </span>
               Traversa Salvaletto
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -42,15 +41,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">INC01-A</span>
+              <span className="id-text">INC01-A  </span>
               Traversa Salvaletto Wings
             </span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -66,15 +65,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">INC-01A
-              </span>
+              <span className="id-text">INC-01A  </span>
               Traversa Salvaletto Maxi</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -90,14 +88,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">300C
-              </span>Mascherina chirurgica tipo IIR</span>
+              <span className="id-text">300C  </span>
+              Mascherina chirurgica tipo IIR</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -113,15 +110,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3000D
-              </span>
+              <span className="id-text">3000D  </span>
               Semimaschera fltrante FFP2</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -136,14 +132,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3000E</span>
+              <span className="id-text">3000E  </span>
               Semimaschera fltrante FFP3</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -158,13 +154,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">301GL</span>
+              <span className="id-text">301GL  </span>
               Guanti in Lattice</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -179,14 +175,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">301GV</span>
+              <span className="id-text">301GV  </span>
               Guanti in Vinile senza polvere</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -202,14 +198,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">301GN
-              </span>Guanti in Nitrile senza polvere</span>
+              <span className="id-text">301GN  </span>
+              Guanti in Nitrile senza polvere</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -224,13 +219,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302C</span>
+              <span className="id-text">302C  </span>
               Camice Impermeabile</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -245,14 +240,12 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302D
-              </span>Camice monouso in TNT</span>
+              <span className="id-text">302D  </span>Camice monouso in TNT</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -268,14 +261,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302E</span>
+              <span className="id-text">302E  </span>
               Grembiule monouso</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -290,14 +283,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">30002F</span>
+              <span className="id-text">30002F  </span>
               Bavaglio monouso per adulti</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -312,14 +305,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302G
-              </span>Bavaglio medico monouso</span>
+              <span className="id-text">302G  </span>
+              Bavaglio medico monouso</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -339,9 +331,9 @@ const Categories = () => {
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -356,15 +348,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302I
-              </span>
+              <span className="id-text">302I  </span>
               Copriscarpa in tessuto con elastico</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -379,16 +370,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302J
-              </span>
+              <span className="id-text">302J  </span>
               Copricapo monouso in TNT 8
             </span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -403,15 +392,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302K
-              </span>
+              <span className="id-text">302K  </span>
               Coprimaterasso monouso</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -426,13 +413,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">6001A
-              </span>Sedia comoda pieghevole 4 in 1 Antiscivolo</span>
+              <span className="id-text">6001A  </span>
+              Sedia comoda pieghevole 4 in 1 Antiscivolo</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -447,15 +434,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">6002B
-              </span>
+              <span className="id-text">6002B  </span>
               Sedia comoda pieghevole 4 in 1 con 4 ruote</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -466,18 +452,17 @@ const Categories = () => {
           onClick={() => navigate('/CategoriesDetail20')}>
           <div className="box">
             <img src={"images/products/image-018.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">6003C
-              </span>Sedia WC pieghevole antiscivolo</span>
+              <span className="id-text">6003C  </span>
+              Sedia WC pieghevole antiscivolo</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -488,19 +473,18 @@ const Categories = () => {
           onClick={() => navigate('/CategoriesDetail21')}>
           <div className="box">
             <img src={"images/products/image-019.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">6004D
-              </span>
+              <span className="id-text">6004D  </span>
               Sedia WC portatile Antiscivolo</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -511,18 +495,17 @@ const Categories = () => {
           onClick={() => navigate('/CategoriesDetail22')}>
           <div className="box">
             <img src={"images/products/image-020.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">7001A
-              </span>Sedia comoda portatile Antiscivolo</span>
+              <span className="id-text">7001A  </span>
+              Sedia comoda portatile Antiscivolo</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -537,14 +520,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">7002B
-              </span>Sedia comoda da toilette 5 in 1</span>
+              <span className="id-text">7002B  </span>
+              Sedia comoda da toilette 5 in 1</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -555,7 +537,7 @@ const Categories = () => {
           onClick={() => navigate('/CategoriesDetail24')}>
           <div className="box">
             <img src={"images/products/image-022.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
@@ -564,9 +546,9 @@ const Categories = () => {
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -577,19 +559,18 @@ const Categories = () => {
           onClick={() => navigate('/CategoriesDetail25')}>
           <div className="box">
             <img src={"images/products/image-023.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">8002A
-              </span>Sedia doccia con ruote
+              <span className="id-text">8002A  </span>
+              Sedia doccia con ruote
             </span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -600,20 +581,19 @@ const Categories = () => {
           onClick={() => navigate('/CategoriesDetail26')}>
           <div className="box">
             <img src={"images/products/image-024.png"} alt="" className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">101A
-              </span>
+              <span className="id-text">101A  </span>
               Sgabello per vasca Antiscivolo
             </span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -624,21 +604,19 @@ const Categories = () => {
           onClick={() => navigate('/CategoriesDetail27')}>
           <div className="box">
             <img alt="" src={"images/products/image-025.png"} className="img-product"/>
-            <span className="span-price">$1280</span>
+            <span className="span-price"></span>
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">
-                103C
-              </span>Sgabello per vasca antiscivolo
-
+              <span className="id-text">103C   </span>
+              Sgabello per vasca antiscivolo
             </span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -653,16 +631,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">201A
-              </span>Sedia per doccia Antiscivolo
-
+              <span className="id-text">201A  </span>
+              Sedia per doccia Antiscivolo
             </span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -677,14 +654,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">203C
-              </span>
+              <span className="id-text">203C  </span>
               Sedia per doccia Antiscivolo</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -699,14 +675,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">301A
-              </span>
+              <span className="id-text">301A  </span>
               Sedia per doccia con Schienale</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -721,14 +696,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">401A
-              </span>
+              <span className="id-text">401A  </span>
               Sedia per doccia con schienale</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -743,15 +717,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">403E
-              </span>
+              <span className="id-text">403E  </span>
               Sedile per doccia con braccioli
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -766,15 +739,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">404D
-              </span>
+              <span className="id-text">404D  </span>
               Sedia per doccia a forma di U
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -789,16 +761,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">703C
-              </span>
+              <span className="id-text">703C  </span>
               Braccioli di appoggio per WC
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -813,16 +784,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">704D
-              </span>
+              <span className="id-text">704D  </span>
               Braccioli di appoggio per WC
-
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -837,15 +806,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">705E
-              </span>
+              <span className="id-text">705E  </span>
               Maniglie di appoggio per WC
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -860,16 +828,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">710A / 710B
-              </span>
+              <span className="id-text">710A / 710B  </span>
               Rialzo WC con sistema
-
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -884,14 +850,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">711A/711B
-              </span>Rialzo WC con sistema
+              <span className="id-text">711A/711B  </span>
+              Rialzo WC con sistema
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -906,15 +872,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">712A</span>
+              <span className="id-text">712A  </span>
               Rialzo WC con braccioli
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -929,15 +895,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">713A</span>
+              <span className="id-text">713A  </span>
               Rialzo WC con braccioli senza
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -952,14 +918,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">607A</span>
+              <span className="id-text">607A  </span>
               Impugnatura di sicurezza per
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -974,15 +940,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">700A / 700B
-              </span>
+              <span className="id-text">700A / 700B  </span>
               Maniglione per bagno
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -997,15 +962,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">608</span>
+              <span className="id-text">608  </span>
               Urinale per Uomo
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1020,15 +985,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">609
-              </span>
+              <span className="id-text">609  </span>
               Urinale per Donna
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1043,15 +1007,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">6010
-              </span>
+              <span className="id-text">6010  </span>
               Urinale Unisex
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1066,13 +1029,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3001B</span>
+              <span className="id-text">3001B  </span>
               Deambulatore pieghevole light</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1087,14 +1050,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1004D</span>
+              <span className="id-text">1004D  </span>
               Deambulatore pieghevole stand
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1109,15 +1072,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1009</span>
+              <span className="id-text">1009  </span>
               Deambulatore Wehda
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1132,14 +1095,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1001A</span>
+              <span className="id-text">1001A  </span>
               Deambulatore Pieghevole trasform
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1154,15 +1117,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3004H</span>
+              <span className="id-text">3004H  </span>
               Deambulatore trasformabile
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1177,15 +1140,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1005E</span>
+              <span className="id-text">1005E  </span>
               Deambulatore Active
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1200,15 +1163,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3005E</span>
+              <span className="id-text">3005E  </span>
               Deambulatore Pieghevole
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1223,14 +1186,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">305E1</span>
+              <span className="id-text">305E1  </span>
               Deambulatore con 2 ruote 360
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1245,15 +1208,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3005F</span>
+              <span className="id-text">3005F  </span>
               Deambulatore con 4 ruote
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1268,14 +1231,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">802B</span>
+              <span className="id-text">802B  </span>
               Deambulatore pieghevole antiscivolo
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1290,14 +1253,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">804D</span>
+              <span className="id-text">804D  </span>
               Deambulatore Pieghevole a 2ruote
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1312,13 +1275,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1101A</span>
+              <span className="id-text">1101A  </span>
               Tavolino ausiliario inclinabile</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1333,14 +1296,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1101B</span>
+              <span className="id-text">1101B  </span>
               Tavolino ausiliario
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1355,14 +1318,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">902</span>
+              <span className="id-text">902  </span>
               Pedaliera pieghevole
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1377,14 +1340,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">903</span>
+              <span className="id-text">903  </span>
               Palline per riabilitazione
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1399,14 +1362,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">908</span>
+              <span className="id-text">908  </span>
               Pedaliera in acciaio con mpugnature
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1421,14 +1384,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">909</span>
+              <span className="id-text">909  </span>
               Palline per riabilitazione
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1443,15 +1406,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">911</span>
+              <span className="id-text">911  </span>
               Fasce elastiche
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1466,15 +1429,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">912</span>
+              <span className="id-text">912  </span>
               Borsa acqua calda
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1489,14 +1452,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">913</span>
+              <span className="id-text">913  </span>
               Borsa ghiaccio
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1511,14 +1474,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">914</span>
+              <span className="id-text">914  </span>
               Gelatina riutilizzabile caldo/</span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1533,15 +1496,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">915</span>
+              <span className="id-text">915  </span>
               Ghiaccio istantaneo
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1556,16 +1519,16 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">916</span>
+              <span className="id-text">916  </span>
               Ghiaccio Spray
 
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1580,15 +1543,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">917</span>
+              <span className="id-text">917  </span>
               Cuscino di farro cervicale
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1603,15 +1566,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">918</span>
+              <span className="id-text">918  </span>
               Cuscino termico
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1626,15 +1589,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">919</span>
+              <span className="id-text">919  </span>
               Cuscino termico cervicale
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1649,16 +1612,16 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">920</span>
+              <span className="id-text">920  </span>
               Scaldacollo e schiena
 
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1673,15 +1636,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">921</span>
+              <span className="id-text">921  </span>
               Scaldaletto materasso
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1696,14 +1659,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">922</span>
+              <span className="id-text">922  </span>
               Scaldapiedi elettrico</span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1718,13 +1681,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">IP1</span>
+              <span className="id-text">IP1  </span>
               Spugna presaponata imbustata</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1738,13 +1701,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">IP2</span>
+              <span className="id-text">IP2  </span>
               Manopola presaponata</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1758,13 +1721,13 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">IP3</span>
+              <span className="id-text">IP3  </span>
               Manopola presaponata 2 latt</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1779,14 +1742,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">IP4</span>
+              <span className="id-text">IP4  </span>
               Manopola lava pazienti in TNT
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1801,14 +1764,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">IP5</span>
+              <span className="id-text">IP5  </span>
               Salviette monouso assorbente
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1823,14 +1786,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303C / 303D
-              </span>Pigiama intero sanitario con
+              <span className="id-text">303C / 303D </span>
+              Pigiama intero sanitario con
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1845,14 +1808,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303E</span>
+              <span className="id-text">303E  </span>
               Camicie
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1867,14 +1830,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303F</span>
+              <span className="id-text">303F  </span>
               Bavaglino Impermeabile
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1889,15 +1852,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303G</span>
+              <span className="id-text">303G  </span>
               Traverse assorbenti riutilizzabili
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1912,14 +1875,14 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303J</span>
+              <span className="id-text">303J  </span>
               Coprimaterasso impermeabile</span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1934,15 +1897,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303K</span>
+              <span className="id-text">303K  </span>
               Coprimaterasso in polietilene
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -1957,15 +1920,15 @@ const Categories = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">30003N</span>
+              <span className="id-text">30003N  </span>
               Copricuscini in polietilene
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>

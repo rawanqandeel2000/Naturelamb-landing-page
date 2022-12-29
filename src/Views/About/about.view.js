@@ -23,7 +23,7 @@ export default function About() {
       </div>
       <section className="second-content">
         <div className="first-subContent">
-          <img src="/images/aboutUs/Rectangle-15.png" className="char1" alt=""></img>
+          <img src="/images/aboutUs/Rectangle-15.jpg" className="char1" alt=""></img>
           <h4 className="subHeading1">Our history </h4>
           <h4 className="subHeading2">Lorem ipsum dolor sit amet, consetetur <br/> sadipscing elitr, sed diam nonumy eirmod <br/> tempor invidunt ut labore et dolore magna <br/> aliquyam erat, sed diam voluptua. At vero eos <br/> et accusam et justo duo dolores et ea rebum. <br/> Stet clita kasd gubergren, no sea takimata.</h4>
         </div>

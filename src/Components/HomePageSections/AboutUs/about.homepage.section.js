@@ -24,7 +24,8 @@ export default function AboutUsHome() {
                         working the fields and sticks for shepherds.
                     </p>
                     <p className='info-sec'>
-                        In 1945, Manuel García Martínez Jr. joined the management of the company. His work throughout these post-war years was vital for the subsequent development of the company. He searched for new work formulas and began to mechanize the manufacturing process. In 1980 his children continued to manage the business.
+                        In 1945, Manuel García Martínez Jr. joined the management of the company. His work throughout these post-war years was vital for the subsequent development of the company. He searched for new work formulas and began to mechanize the manufacturing process.
+                         In 1980 his children continued to manage the business.
                     </p>
                     <Button onClick={goToAbout} className="about-us-home-button" variant="success">{'About Us>'} </Button>{' '}
 

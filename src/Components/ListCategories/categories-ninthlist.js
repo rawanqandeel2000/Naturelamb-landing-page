@@ -20,14 +20,14 @@ const CategoriesNinthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303C / 303D
-              </span>Pigiama intero sanitario con
-            </span>
+              <span className="id-text">303C / 303D  </span>
+              Pigiama intero sanitario con
+            </span> 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -42,14 +42,14 @@ const CategoriesNinthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303E</span>
+              <span className="id-text">303E  </span>
               Camicie
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -64,14 +64,14 @@ const CategoriesNinthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303F</span>
+              <span className="id-text">303F  </span>
               Bavaglino Impermeabile
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -86,15 +86,15 @@ const CategoriesNinthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303G</span>
+              <span className="id-text">303G  </span>
               Traverse assorbenti riutilizzabili
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -109,14 +109,14 @@ const CategoriesNinthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303J</span>
+              <span className="id-text">303J  </span>
               Coprimaterasso impermeabile</span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -131,15 +131,15 @@ const CategoriesNinthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">303K</span>
+              <span className="id-text">303K  </span>
               Coprimaterasso in polietilene
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -154,15 +154,15 @@ const CategoriesNinthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">30003N</span>
+              <span className="id-text">30003N  </span>
               Copricuscini in polietilene
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>

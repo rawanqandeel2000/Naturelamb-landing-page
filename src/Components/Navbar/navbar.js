@@ -14,7 +14,7 @@ function navOptions(selectedOption,color){
         <>
             <Nav.Link style={{color:color}} href="/"  className={"nlink " + (selectedOption === 0 ? "selected-button-navbar wh" : "") }>Home</Nav.Link>
             <Nav.Link style={{color:color, "margin-top": -8}} href="/products" className={"nlink " + (selectedOption === 1 ? "selected-button-navbar wh" : "") }>
-                        <NavDropdown title="Product"  style={{color:'white'}}>
+                        <NavDropdown title="Product"  style={{color: color}}>
                      <div class="dropdown dropend">
                           <button type="button" class="btn btn-primary dropdown-toggle  btn-drop" data-bs-toggle="dropdown">
                           Articoli Monouso
@@ -55,7 +55,6 @@ function navOptions(selectedOption,color){
                             <li><a class="dropdown-item" href="/CategoriesNinthlist">Tessile per la terza età</a></li>
                             </ul>
                         </div>
-
                             </NavDropdown>
                             </Nav.Link>
             <Nav.Link style={{color:color}} href="/about" className={"nlink " + (selectedOption === 2 ? "selected-button-navbar bg-white abo" : "") } >About us</Nav.Link>
@@ -71,8 +70,8 @@ export default function Navb(props){
                     <Navbar.Brand href="/" >
                         <img
                             src={logo}
-                            width="300.38"
-                            height="100.04"
+                            width="358.38"
+                            height="150.04"
                             className="d-inline-block align-top"
                             alt="React Bootstrap logo"
                         />

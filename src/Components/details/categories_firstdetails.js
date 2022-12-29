@@ -27,9 +27,9 @@ export const CategoriesDetailsOne = () => {
           </p>
           <div className="text-dt">
             <Rating
-              emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+              emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
             </i>}
-              fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+              fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
             </i>}/>
           </div>
 
@@ -65,10 +65,8 @@ export const CategoriesDetailTwo = () => {
           </p>
           <div className="text-dt">
             <Rating
-              emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
-            </i>}
-              fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
-            </i>}/>
+              emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;</i>}
+              fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;</i>}/>
           </div>
         </div>
       </div>
@@ -101,9 +99,9 @@ export const CategoriesDetailThree = () => {
           </p>
           <div className="text-dt">
             <Rating
-              emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+              emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
             </i>}
-              fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+              fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
             </i>}/>
           </div>
         </div>

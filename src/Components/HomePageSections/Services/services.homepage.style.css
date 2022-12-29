@@ -9,6 +9,9 @@
     text-align: center;
     color: #5a5858;
 }
+.box {
+    margin-left: 63px;
+}
 .box-item {
 padding: 1rem;
 width: 26rem;
@@ -26,6 +29,6 @@ margin-left: 12rem;
     width: 17rem;
 }
 .box-itemfinal{
-    margin-left: 451px;
+    margin-left: 492px;
     margin-top: -68px;
 }

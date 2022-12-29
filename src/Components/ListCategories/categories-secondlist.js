@@ -22,14 +22,14 @@ const CategoriesSecondlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">300C
-              </span>Mascherina chirurgica tipo IIR</span>
+              <span className="id-text">300C  </span>
+              Mascherina chirurgica tipo IIR</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -45,15 +45,14 @@ const CategoriesSecondlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3000D
-              </span>
+              <span className="id-text">3000D  </span>
               Semimaschera fltrante FFP2</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -68,14 +67,14 @@ const CategoriesSecondlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3000E</span>
+              <span className="id-text">3000E  </span>
               Semimaschera fltrante FFP3</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>

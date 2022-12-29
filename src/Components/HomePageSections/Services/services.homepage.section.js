@@ -23,7 +23,7 @@ export default function ServiceHome() {
           our elderly and people with mobility problems
         </p>
       </div>
-      <div className="row">
+      <div className="row  box">
         <div className="col-sm-6">
           <div className='box-item'>
             <img src={maps} alt=""/>

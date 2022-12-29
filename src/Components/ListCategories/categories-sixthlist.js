@@ -21,13 +21,13 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3001B</span>
+              <span className="id-text">3001B  </span>
               Deambulatore pieghevole light</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -42,14 +42,14 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1004D</span>
+              <span className="id-text">1004D  </span>
               Deambulatore pieghevole stand
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -64,15 +64,15 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1009</span>
+              <span className="id-text">1009  </span>
               Deambulatore Wehda
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -87,14 +87,14 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1001A</span>
+              <span className="id-text">1001A  </span>
               Deambulatore Pieghevole trasform
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -109,15 +109,15 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3004H</span>
+              <span className="id-text">3004H  </span>
               Deambulatore trasformabile
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -132,15 +132,15 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1005E</span>
+              <span className="id-text">1005E  </span>
               Deambulatore Active
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -155,15 +155,15 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3005E</span>
+              <span className="id-text">3005E  </span>
               Deambulatore Pieghevole
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -178,14 +178,14 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">305E1</span>
+              <span className="id-text">305E1  </span>
               Deambulatore con 2 ruote 360
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -200,15 +200,15 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">3005F</span>
+              <span className="id-text">3005F  </span>
               Deambulatore con 4 ruote
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -223,14 +223,14 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">802B</span>
+              <span className="id-text">802B  </span>
               Deambulatore pieghevole antiscivolo
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -245,14 +245,14 @@ const CategoriesSixthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">804D</span>
+              <span className="id-text">804D  </span>
               Deambulatore Pieghevole a 2ruote
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>

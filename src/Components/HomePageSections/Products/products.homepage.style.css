@@ -8,7 +8,9 @@
 }
 
 .products-home-page-word {
-    /* Make capital */
+    background-color: white;
+    border-style: none;
+    padding: 10px;
     text-transform: uppercase;
     color: #FF3A46;
     font-family: 'Cairo';
@@ -56,4 +58,8 @@
     left: 0;
     bottom: -30%;
     opacity: 0.3;
+}
+.img-group {
+margin-left: 166px;
+margin-top: -81px;
 }

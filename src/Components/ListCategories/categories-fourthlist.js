@@ -19,13 +19,13 @@ const CategoriesFourthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302C</span>
+              <span className="id-text">302C  </span>
               Camice Impermeabile</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -40,14 +40,13 @@ const CategoriesFourthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302D
-              </span>Camice monouso in TNT</span>
+              <span className="id-text">302D  </span>
+              Camice monouso in TNT</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -63,14 +62,14 @@ const CategoriesFourthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302E</span>
+              <span className="id-text">302E  </span>
               Grembiule monouso</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -85,14 +84,14 @@ const CategoriesFourthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">30002F</span>
+              <span className="id-text">30002F  </span>
               Bavaglio monouso per adulti</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -107,14 +106,13 @@ const CategoriesFourthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302G
-              </span>Bavaglio medico monouso</span>
+              <span className="id-text">302G  </span>
+              Bavaglio medico monouso</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -129,14 +127,13 @@ const CategoriesFourthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302H
-              </span>Copriscarpa in Polipropilene</span>
+              <span className="id-text">302H  </span>
+              Copriscarpa in Polipropilene</span>
             <div className="">
-
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -151,15 +148,14 @@ const CategoriesFourthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302I
-              </span>
+              <span className="id-text">302I  </span>
               Copriscarpa in tessuto con elastico</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -174,16 +170,15 @@ const CategoriesFourthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302J
-              </span>
+              <span className="id-text">302J  </span>
               Copricapo monouso in TNT 8
             </span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -198,15 +193,14 @@ const CategoriesFourthlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">302K
-              </span>
+              <span className="id-text">302K  </span>
               Coprimaterasso monouso</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>

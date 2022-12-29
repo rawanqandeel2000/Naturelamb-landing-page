@@ -20,13 +20,13 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1101A</span>
+              <span className="id-text">1101A  </span>
               Tavolino ausiliario inclinabile</span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -41,14 +41,14 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">1101B</span>
+              <span className="id-text">1101B  </span>
               Tavolino ausiliario
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -63,14 +63,14 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">902</span>
+              <span className="id-text">902  </span>
               Pedaliera pieghevole
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -85,14 +85,14 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">903</span>
+              <span className="id-text">903  </span>
               Palline per riabilitazione
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -107,14 +107,14 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">908</span>
+              <span className="id-text">908  </span>
               Pedaliera in acciaio con mpugnature
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -129,14 +129,14 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">909</span>
+              <span className="id-text">909  </span>
               Palline per riabilitazione
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -151,15 +151,15 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">911</span>
+              <span className="id-text">911  </span>
               Fasce elastiche
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -174,15 +174,15 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">912</span>
+              <span className="id-text">912  </span>
               Borsa acqua calda
 
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -197,14 +197,14 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">913</span>
+              <span className="id-text">913  </span>
               Borsa ghiaccio
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -219,14 +219,14 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">914</span>
-              Gelatina riutilizzabile caldo/</span>
+              <span className="id-text">914  </span>
+              Gelatina riutilizzabile caldo</span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -241,15 +241,15 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">915</span>
+              <span className="id-text">915  </span>
               Ghiaccio istantaneo
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -264,16 +264,16 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">916</span>
+              <span className="id-text">916  </span>
               Ghiaccio Spray
 
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -288,15 +288,15 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">917</span>
+              <span className="id-text">917  </span>
               Cuscino di farro cervicale
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -311,15 +311,15 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">918</span>
+              <span className="id-text">918  </span>
               Cuscino termico
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -334,15 +334,15 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">919</span>
+              <span className="id-text">919  </span>
               Cuscino termico cervicale
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -357,16 +357,16 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">920</span>
+              <span className="id-text">920  </span>
               Scaldacollo e schiena
 
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -381,15 +381,15 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">921</span>
+              <span className="id-text">921  </span>
               Scaldaletto materasso
             </span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -404,14 +404,14 @@ const CategoriesSeventhlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">922</span>
+              <span className="id-text">922  </span>
               Scaldapiedi elettrico</span>
 
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>

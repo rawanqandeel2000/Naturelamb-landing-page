@@ -1,17 +1,19 @@
 import * as React from 'react';
 import { Row, Col } from 'antd';
 import './products.homepage.style.css';
-
+import {useNavigate} from "react-router-dom";
 export default function ProductsHome() {
+    const navigate = useNavigate();
     return (
         <>
             <Row className="products-section">
                 <img src='/images/home/products-icons/left.png' alt='' className='semi-circle-products-left' />
+              
                 <Col span={13}>
-
+                <img src='/images/home/Client Image.png' alt='' className='img-group' />
                 </Col>
                 <Col span={11}>
-                    <p className='products-home-page-word'>Products</p>
+                    <button className='products-home-page-word' onClick={() => navigate('/Products')}>Products</button>
                     <h1 className='subheading-products-home'>Canes & Walking Sticks</h1>
                     <p className='products-text'>
                         Visit our walking sticks page to know our product with more

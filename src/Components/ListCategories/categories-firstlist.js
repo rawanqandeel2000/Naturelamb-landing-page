@@ -19,14 +19,14 @@ const CategoriesFirstlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">INC01</span>
+              <span className="id-text">INC01  </span>
               Traversa Salvaletto
             </span>
             <div className="">
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -40,15 +40,15 @@ const CategoriesFirstlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">INC01-A</span>
+              <span className="id-text">INC01-A  </span>
               Traversa Salvaletto Wings
             </span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
@@ -64,15 +64,14 @@ const CategoriesFirstlist = () => {
           </div>
           <div className="inner-box">
             <span className="text-inner">
-              <span className="id-text">INC-01A
-              </span>
+              <span className="id-text">INC-01A  </span>
               Traversa Salvaletto Maxi</span>
             <div className="">
 
               <Rating
-                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >& #xf005;
+                emptySymbol={< i className = 'far' style = {{color:'#FFB300'}} >&#xf005;
               </i>}
-                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >& #xf005;
+                fullSymbol={< i className = 'fas' style = {{color:' #FFB300'}} >&#xf005;
               </i>}/>
             </div>
           </div>
